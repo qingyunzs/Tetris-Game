@@ -8,11 +8,11 @@ cRed=1
 cGreen=2
 cYellow=3
 cBlue=4
-cFuchsia=5
+cFuchsia=n5
 cCyan=6
 cWhite=7
 colorTable=($cRed $cGreen $cYellow $cBlue $cFuchsia $cCyan $cWhite)
-#位置和大小
+#大小与位置
 iLeft=3
 iTop=2
 ((iTrayLeft = iLeft + 2))
